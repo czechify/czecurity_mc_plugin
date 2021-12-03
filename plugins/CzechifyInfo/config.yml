@@ -1,0 +1,4 @@
+repeatingcommand:
+  run: 'tellraw @a ["",{"text":"Baví t\u011b server? Podpo\u0159 "},{"text":"Czechify","bold":true,"color":"#D7141A"},{"text":" na "},{"text":"[Patreonu]","color":"#F1C40F","clickEvent":{"action":"open_url","value":"https://www.patreon.com/czechify"},"hoverEvent":{"action":"show_text","contents":"Click to open the link"}},{"text":"!"}]'
+  delay: 10
+  enabled: true

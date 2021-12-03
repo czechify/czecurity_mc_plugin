@@ -1,0 +1,7 @@
+db:
+  host: origin.najemi.cz
+  port: 3306
+  database: minecraft
+  username: minecraft
+  password: Czechify2021!
+  apiKey: c08523ae4b0588fb871a9bcf7d3f5eef4a6234ff03fa09c71c071b6ebcb888b9
